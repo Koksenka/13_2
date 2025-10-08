@@ -12,11 +12,11 @@
 
 Cкриншот каталога с исходными данными:
 
-![Скриншот 1](img/1.png)
+![Скриншот 1](https://github.com/Koksenka/13_2/blob/master/2.png)
 
 Cкриншот каталога с зашифрованными данными:
 
-![Скриншот 2](img/2.png)
+![Скриншот 2](https://github.com/Koksenka/13_2/blob/master/1.png)
 
 ---
 ### Задание 2
@@ -31,14 +31,18 @@ Cкриншот каталога с зашифрованными данными:
 
 Cкриншот 1:
 
-![Скриншот 3](img/3.png)
+![Скриншот](https://github.com/Koksenka/13_2/blob/master/3.png)
 
 Cкриншот 2:
 
-![Скриншот 4](img/4.png)
+![Скриншот](https://github.com/Koksenka/13_2/blob/master/4.png)
 
 Cкриншот 3:
 
-![Скриншот 5](img/5.png)
+![Скриншот](https://github.com/Koksenka/13_2/blob/master/5.png)
+
+Cкриншот 4:
+
+![Скриншот](https://github.com/Koksenka/13_2/blob/master/6.png)
 
 ---
